@@ -1,4 +1,8 @@
 hola mundo
+<<<<<<< HEAD
+Hola como estas?
+111111111111111111111111111111111111111111111111111
+=======
 hollaaaaaaaaaaa
 2
 2
@@ -9,5 +13,10 @@ hollaaaaaaaaaaa
 2
 2
 2
+<<<<<<< HEAD
 
 te amo 
+=======
+>>>>>>> aa3f2470c9568a562faba424c397151d1989db90
+am_onlinestore
+>>>>>>> 1ae023db525881383a53d07db551e32972a91ea9
